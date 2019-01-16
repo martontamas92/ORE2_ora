@@ -4,7 +4,7 @@ import javax.ejb.Remote;
 import javax.ejb.Stateless;
 
 import ejb_interface.First;
-@Stateless
+@Stateless(name="first")
 @Remote(First.class)
 public class FirstImpl implements First{
 
