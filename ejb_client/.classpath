@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/ejb_interface"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FirstEJB"/>
+	<classpathentry kind="lib" path="D:/Elosztott rendszerek/Enviroment_setup/db-derby-10.14.2.0-bin/lib/derby.jar"/>
+	<classpathentry kind="lib" path="D:/Elosztott rendszerek/Enviroment_setup/db-derby-10.14.2.0-bin/lib/derbyclient.jar"/>
+	<classpathentry kind="var" path="ECLIPSELINK"/>
+	<classpathentry kind="var" path="GLASSFISH"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
